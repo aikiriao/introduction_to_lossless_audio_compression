@@ -1,0 +1,3 @@
+[submodule "ALA"]
+	path = ALA
+	url = https://github.com/aikiriao/ALA.git
